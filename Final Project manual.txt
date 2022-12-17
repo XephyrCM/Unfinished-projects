@@ -1,0 +1,10 @@
+#Version 1.0
+#Randy Moore
+#This is going to be an appointment scheduler that allows for exportation of scheduled appointments
+Please visit my github: https://github.com/XephyrCM/Practice
+
+Instructions:
+
+Please run the file
+1.) Input the required fields on the program and click submit
+You can then check the output in a Appointment.txt file that will be created. 
